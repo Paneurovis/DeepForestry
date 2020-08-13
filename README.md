@@ -185,5 +185,5 @@ custom_WEIGHTS_PATH = "/path/to/.h5"
 ![alt text](visualization-samples/01.png)
 ![alt text](visualization-samples/05.png)
 
-### Extra to learn: Manipulate hyperparameters to fine tune mask rcnn
-please check hyperparameters-fine-tune folder: https://github.com/Chiayen0503/dissertation/tree/master/hyperparameters-fine-tune
+### Cite the paper
+C. Chiang, C. Barnes, P. Angelov and R. Jiang, "Deep Learning based Automated Forest Health Diagnosis from Aerial Images," in IEEE Access, doi: https://doi.org/10.1109/ACCESS.2020.3012417
