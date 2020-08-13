@@ -179,11 +179,11 @@ custom_WEIGHTS_PATH = "/path/to/.h5"
 
 * (4) Samples of loss diagrams
 
-![alt text](images/sample-loss.png)
+![alt text](visualization-samples/sample-loss.png)
 * (5) Samples of mask visualization
 
-![alt text](images/01.png)
-![alt text](images/05.png)
+![alt text](visualization-samples/01.png)
+![alt text](visualization-samples/05.png)
 
 ### Extra to learn: Manipulate hyperparameters to fine tune mask rcnn
 please check hyperparameters-fine-tune folder: https://github.com/Chiayen0503/dissertation/tree/master/hyperparameters-fine-tune
